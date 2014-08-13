@@ -424,3 +424,6 @@
 [submodule "cronjobs"]
 	path = cronjobs
 	url = https://github.com/PrestaShop/cronjobs
+[submodule "affinityitems/backward_compatibility"]
+	path = affinityitems/backward_compatibility
+	url = https://github.com/PrestaShop/PrestaShop-backward_compatibility
